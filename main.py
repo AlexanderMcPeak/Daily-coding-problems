@@ -13,7 +13,7 @@ while i != len(A):
             print(i)
             print(j)
         j = j + 1
-    i = i + 1
+    i = i + 2
 
 
 
